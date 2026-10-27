@@ -40,3 +40,17 @@ The date metadata requires independent source verification.
 
 Original Google Drive history, Claude Code sessions, and
 backup records should be retained to support these dates.
+
+## Historical development graph
+
+Author-reported development dates, not historical Git commits.
+
+```mermaid
+xychart-beta
+    title "EpicForge Monthly Development"
+    x-axis ["Aug25", "Sep25", "Oct25", "Nov25", "Dec25", "Jan26", "Feb26", "Mar26", "Apr26", "May26", "Jun26", "Jul26", "Aug26", "Sep26", "Oct26"]
+    y-axis "Programs" 0 --> 80
+    bar [67, 62, 69, 65, 69, 68, 70, 68, 67, 70, 65, 57, 69, 64, 58]
+```
+
+12 additional records require date review.

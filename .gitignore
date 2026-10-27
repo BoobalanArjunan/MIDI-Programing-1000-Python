@@ -1,0 +1,15 @@
+
+# Generated MIDI output
+output/
+
+# Temporary validation artifacts
+epicforge_validation.log
+validation_results.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local compatibility link
+programs/engine
+tools/*.bak
